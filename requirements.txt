@@ -1,0 +1,4 @@
+aiogram
+aiosqlite
+aiogram
+docker
